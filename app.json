@@ -1,6 +1,6 @@
 {
-  "name": "LAKA-MD-V1",
-  "description": "ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʟᴀᴋᴀ-ᴍᴅ 🐣🖇️",
+  "name": "ASHOK-MD-V7",
+  "description": "ASHOK-MD V7🐣🖇️",
   "logo": "https://i.ibb.co/sKmDFhk/7919.jpg",
   "keywords": ["bot"],
   "success_url": "/",
@@ -10,19 +10,19 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "LAKA-MD=4wxFgaDQ#KvTtt9Ta2xjcH9n6iCpYnz0C9YECZGJfqcu23amYWUE"
       
     },
     "MONGODB": {
       "description": "Put your MongoDB Database URL here.",
       "required": true,
-      "default": ""
+      "default": "mongodb://mongo:GdCfQflUXajCbEhqTEFNBOJIOACcuBSl@junction.proxy.rlwy.net:23221"
 
     },
     "OWNER_NUMBER": {
       "description": "Owner Number.",
       "required": true,
-      "default": "94781121579"
+      "default": "919387196256"
       
     }
  
